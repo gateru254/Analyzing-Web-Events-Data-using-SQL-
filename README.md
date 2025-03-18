@@ -6,7 +6,7 @@
 - Insert/Write/Paste the credentials from the aiven account to the Dbeaver ie,Host,Port,Postgress,Username ,Password
 - Test connection ✅
 
-### 📊 Overview
+### 📊 Overview ✨
 This repository contains a collection of **SQL queries** designed to analyze web event data effectively.
 ### Features 🔥
 - ⏲️ Events by Time of Day (Morning, Evening, Peak Hours).
@@ -15,7 +15,7 @@ This repository contains a collection of **SQL queries** designed to analyze web
 - 🌓  web events happened in the evening (after 6pm)
 - 🎯  Channel Performance & User Engagement Metrics
 
-### 📁 SQL Queries 
+### 📁  Example of SQL Queries used in analyzing web events data using SQL
 ### 1️⃣ **Total Web Events Count**
 ```sql
 SELECT COUNT(*) FROM web_events;
